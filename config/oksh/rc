@@ -1,0 +1,2 @@
+export PS1="\u\033[1;35m@\033[m\h \033[1;95m\w \$\033[m "
+alias ls="ls --color=aways"
